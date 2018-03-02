@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PersonalDirectory</string>
+
+    <string name="geo_api_key">AIzaSyB3urqaL_va8POSMr8k_wqQJaYxGeEkJMs</string>
+
+
+    <!--Add Directory Screen-->
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone">Enter Phone Number</string>
+    <string name="enter_loc">Enter Location</string>
+    <string name="submit">Submit</string>
+    <string name="saved">Saved Successfully.</string>
+    <string name="already_present">Phone already exists, Updated Successfully.</string>
+
+    <!--Home Screen-->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+</resources>
